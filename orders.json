@@ -1,0 +1,45 @@
+[
+    {
+        "order_id": "O001",
+        "customer": "張小明",
+        "items": [
+            {
+                "name": "牛肉麵",
+                "price": 120,
+                "quantity": 2
+            },
+            {
+                "name": "滷蛋",
+                "price": 15,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "order_id": "O004",
+        "customer": "成小美",
+        "items": [
+            {
+                "name": "pizza",
+                "price": 200,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": "O003",
+        "customer": "王小英",
+        "items": [
+            {
+                "name": "炒飯",
+                "price": 90,
+                "quantity": 2
+            },
+            {
+                "name": "可樂",
+                "price": 30,
+                "quantity": 1
+            }
+        ]
+    }
+]
